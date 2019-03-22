@@ -28,8 +28,6 @@
               }
             }
           }
-        } catch(exception) {
-          // Exception suppressed
         }
       }
 
